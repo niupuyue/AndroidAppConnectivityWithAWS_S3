@@ -1,0 +1,4 @@
+#Mon Jan 17 20:31:13 CST 2022
+base.0=/Users/niupule/code/android_projects/AndroidAppConnectivityWithAWS_S3/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
